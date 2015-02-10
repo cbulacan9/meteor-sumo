@@ -7,3 +7,11 @@
 meteor-platform
 autopublish
 insecure
+iron:router
+accounts-password
+coffeescript
+meteorhacks:kadira
+sacha:spin
+stevezhu:lodash
+fourseven:scss@=1.0.0
+twbs:bootstrap
